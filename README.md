@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi I'm Michał 👋
 
-<!--
-**BenQUUU/BenQUUU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  I have been passionate about computer science since childhood. As a novice software developer, I'm eager to expand my knowledge and skills in these fields. Over the last few years, I've been dedicated to learning modern C++ programming, along with popular tools useful for working with this language.
 
-Here are some ideas to get you started:
+I'm currently trying to obtain an engineering degree in this field. These studies have not only systematized my knowledge, but also provided me with a deeper understanding of good programming practices, knowledge of electronics or databases. Earlier, after becoming a teleinformatics technician at a general secondary education, I learned a lot about how computer and telecommunications networks work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I'm Familiar With
+* C/C++
+* Python
+* STL
+* GDB
+* CMake, qmake
+* Valgrind
+* Qt
+* Git
+* SQL
+
+Thank you for visiting my profile, and I look forward to connecting with you!
+
+
